@@ -2,5 +2,24 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	// コーディング規約 エンコード
+	"default_encoding": "UTF-8",
+	"fallback_encoding": "UTF-8",
+	"show_encoding": true,
+	// コーディング規約 改行コード
+	"default_line_ending": "unix",
+	"show_line_endings": true,
+	// コーディング規約 タブ
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"draw_white_space": "all",
+
+	// 表示設定 テキストエリア
+	"word_wrap": true,
+	"highlight_line": true,
+	// 表示設定 インターフェース
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": true,
+	"draw_minimap_border": true,
 }

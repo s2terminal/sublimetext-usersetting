@@ -1,6 +1,10 @@
 {
 	"installed_packages":
 	[
-		"Japanize"
+		"Codecs33",
+		"ConvertToUTF8",
+		"Japanize",
+		"Markdown Preview",
+		"TrailingSpaces"
 	]
 }
