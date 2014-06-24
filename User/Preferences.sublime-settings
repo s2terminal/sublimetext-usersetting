@@ -22,4 +22,6 @@
 	"highlight_modified_tabs": true,
 	"bold_folder_labels": true,
 	"draw_minimap_border": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"soda-folder-icons": true
 }

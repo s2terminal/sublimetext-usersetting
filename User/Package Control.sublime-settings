@@ -1,11 +1,17 @@
 {
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
+		"BoundKeys",
 		"Codecs33",
 		"ConvertToUTF8",
+		"Dotfiles Syntax Highlighting",
 		"IMESupport",
 		"Japanize",
+		"Local History",
 		"Markdown Preview",
+		"SideBarEnhancements",
+		"Theme - Soda",
 		"TrailingSpaces"
 	]
 }
